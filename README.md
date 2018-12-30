@@ -6,9 +6,10 @@
 ### Author: Student/Group Name
 
 ### Links and Resources
-* [repo]()
+* [repo](https://github.com/sgtbelly/lab-31/pull/1)
 * [sandbox](https://codesandbox.io/s/w2858m8wk7)
-* [travis](http://xyz.com)
+* [travis](https://www.travis-ci.com/sgtbelly/lab-31)
+* [travis-BuildStatus][![Build Status](https://www.travis-ci.com/sgtbelly/lab-31.svg?branch=master)](https://www.travis-ci.com/sgtbelly/lab-31))
 * [back-end](http://xyz.com)
 * [front-end](http://xyz.com)
 
